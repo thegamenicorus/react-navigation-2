@@ -1,3 +1,6 @@
+# About fork
+Fixed issues with legacy React Navigation support in react-native >= 0.60
+
 # React Navigation
 
 [![npm version](https://badge.fury.io/js/react-navigation.svg)](https://badge.fury.io/js/react-navigation) [![codecov](https://codecov.io/gh/react-navigation/react-navigation/branch/master/graph/badge.svg)](https://codecov.io/gh/react-navigation/react-navigation) [![CircleCI badge](https://circleci.com/gh/react-navigation/react-navigation/tree/master.svg?style=shield)](https://circleci.com/gh/react-navigation/react-navigation/tree/master) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://reactnavigation.org/docs/contributing.html)
