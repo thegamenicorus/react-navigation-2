@@ -293,7 +293,7 @@ export default function createNavigationContainer(Component) {
 
     componentWillUnmount() {
       this._isMounted = false;
-      Linking.removeEventListener('url', this._handleOpenURL);
+      // Linking.removeEventListener('url', this._handleOpenURL);
       this.subs && this.subs.remove();
 
       if (this._isStateful()) {
